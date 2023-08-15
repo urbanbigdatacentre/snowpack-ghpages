@@ -28,4 +28,3 @@ jobs:
 
         with:
           github_token: ${{ secrets.UBDC_GIT_ALL }}
-          publish_dir: docs
